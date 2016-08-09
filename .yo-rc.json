@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Understanding WordPress Actions and Filters",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "understanding-wordpress-actions-filters"
+  }
+}

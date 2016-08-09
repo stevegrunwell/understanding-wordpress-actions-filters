@@ -1,0 +1,31 @@
+[
+    "index.md",
+    [
+        "about.md",
+        "emily.md"
+    ],
+    [
+        "plugin-api.md",
+        "actions.md",
+        "actions2.md",
+        "filters.md",
+        "filters2.md"
+    ],
+    [
+        "understanding-hooks.md",
+        "hook.md",
+        "callback.md",
+        "helper-callbacks.md",
+        "priority.md",
+        "argument-count.md",
+        "removing-hooks.md",
+        "removing-hooks2.md"
+    ],
+    [
+        "examples.md",
+        "filtering-post-titles.md",
+        "adding-tracking-scripts-to-the-site-footer.md",
+        "return-false-with-conditional.md"
+    ],
+    "thank-you.md"
+]
