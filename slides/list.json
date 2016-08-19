@@ -18,6 +18,7 @@
         "helper-callbacks.md",
         "priority.md",
         "argument-count.md",
+        "applying-hooks.md",
         "removing-hooks.md",
         "removing-hooks2.md"
     ],
@@ -25,7 +26,8 @@
         "examples.md",
         "filtering-post-titles.md",
         "adding-tracking-scripts-to-the-site-footer.md",
-        "return-false-with-conditional.md"
+        "return-false-with-conditional.md",
+        "disabling-smart-quotes.md"
     ],
     "thank-you.md"
 ]

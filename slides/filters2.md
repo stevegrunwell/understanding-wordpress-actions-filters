@@ -12,9 +12,11 @@ function embiggen_text( $text ) {
 }
 add_filter( 'the_title', 'embiggen_text' );
 ```
+<!-- .element: class="fragment" -->
 
 ```php
 // Do it again, but with filters!
 the_title();
 #=> HELLO, WORLD!
 ```
+<!-- .element: class="fragment" -->

@@ -1,4 +1,4 @@
-### Enabling users to bypass functionality
+### Enabling sites to bypass functionality
 
 ```php
 if ( apply_filters( 'do_something_optional', '__return_true' ) ) {
