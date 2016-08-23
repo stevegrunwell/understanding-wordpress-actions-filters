@@ -13,6 +13,7 @@
     ],
     [
         "understanding-hooks.md",
+        "hooks-are-everywhere.md",
         "hook.md",
         "callback.md",
         "helper-callbacks.md",
@@ -28,6 +29,16 @@
         "adding-tracking-scripts-to-the-site-footer.md",
         "return-false-with-conditional.md",
         "disabling-smart-quotes.md"
+    ],
+    [
+        "master-course.md",
+        "admin-ajax.md",
+        "client-side-ajax.md",
+        "ajax-handling.md",
+        "woocommerce-hooks.md",
+        "breadcrumbs.md",
+        "breadcrumbs2.md",
+        "inject-our-own-callback.md"
     ],
     "thank-you.md"
 ]

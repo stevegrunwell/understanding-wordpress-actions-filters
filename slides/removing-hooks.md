@@ -4,10 +4,10 @@ Actions and filters can be removed via `remove_action()` or `remove_filter()`, r
 
 ```php
 // Adding the hook.
-add_action( 'my_hook', 'my_callback', 10, 4 );
+add_action( 'my_action', 'my_callback', 10, 4 );
 
 // Removing the hook.
-remove_hook( 'my_hook', 'my_callback', 10, 4 );
+remove_action( 'my_filter', 'my_callback', 10, 4 );
 ```
 <!-- .element: class="fragment" -->
 
