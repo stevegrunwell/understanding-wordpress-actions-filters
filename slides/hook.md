@@ -4,7 +4,7 @@ The `$hook` identifies the action or filter.
 
 ```php
 add_filter( 'the_content', ... );
-add_action( 'wp_header', ... );
+add_action( 'wp_footer', ... );
 add_action( 'save_post-my-post-type', ... );
 ```
 <!-- .element: class="fragment" -->
