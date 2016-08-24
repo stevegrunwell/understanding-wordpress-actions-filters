@@ -7,7 +7,7 @@ Actions and filters can be removed via `remove_action()` or `remove_filter()`, r
 add_action( 'my_action', 'my_callback', 10, 4 );
 
 // Removing the hook.
-remove_action( 'my_filter', 'my_callback', 10, 4 );
+remove_action( 'my_action', 'my_callback', 10, 4 );
 ```
 <!-- .element: class="fragment" -->
 

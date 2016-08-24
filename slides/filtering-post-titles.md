@@ -9,11 +9,11 @@
  * @return The filtered $title.
  */
 function prepend_breaking_news( $title, $id ) {
-	if ( has_category( 'Breaking News', $id ) ) {
+	if ( has_category( 'breaking-news', $id ) ) {
 		$title = 'Breaking: ' . $title;
 	}
 
 	return $title;
 }
-add_action( 'the_title', 'prepend_breaking_news', 10, 2 );
+add_filter( 'the_title', 'prepend_breaking_news', 10, 2 );
 ```
