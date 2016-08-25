@@ -1,1 +1,1 @@
-## The WordPress Plugin API
+## The WordPress Plugin API: Actions + Filters
