@@ -14,6 +14,7 @@
     [
         "understanding-hooks.md",
         "hooks-are-everywhere.md",
+        "function-signature.md",
         "hook.md",
         "callback.md",
         "helper-callbacks.md",
