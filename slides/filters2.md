@@ -7,6 +7,7 @@ the_title();
 ```
 
 ```php
+// A perfectly cromulent function name.
 function embiggen_text( $text ) {
 	return strtoupper( $text );
 }
