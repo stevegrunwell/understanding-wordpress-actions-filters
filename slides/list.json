@@ -25,10 +25,10 @@
     ],
     [
         "examples.md",
+        "disabling-smart-quotes.md",
         "filtering-post-titles.md",
         "adding-tracking-scripts-to-the-site-footer.md",
-        "return-false-with-conditional.md",
-        "disabling-smart-quotes.md"
+        "return-false-with-conditional.md"
     ],
     [
         "master-course.md",
