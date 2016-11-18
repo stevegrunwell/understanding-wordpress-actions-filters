@@ -13,6 +13,7 @@ The Plugin API enables plugin and theme developers to hook into WordPress and ru
 
 ## History
 
+* [php[world] 2016](https://world.phparch.com) - November 18, 2016 ([joind.in](https://joind.in/talk/55fdc))
 * [WordCamp Columbus 2016](https://2016.columbus.wordcamp.org) – August 26, 2016
 
 
